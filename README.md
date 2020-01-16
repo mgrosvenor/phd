@@ -1,6 +1,27 @@
 # Latency-First Datacenter Network Scheduling 
 
-*Matthew Philip Grosvenor*
+**Overview**
+
+This repository is a public store for the final result of my PhD dissertation on latency control in datacenter networks. There are two versions:
+
+- [thesis.pdf](https://github.com/mgrosvenor/phd/blob/master/thesis.pdf) which is a short version of the document, intended for faster downloads and easier digital viewing.  
+- [thesis-full.pdf]() which is a fully prinable final version. This version includes a full copy of Appendix A, which includes extracts of web-based resources used inthe document, but which may expire or be removed by their auhtors. This is considered fair-use from a copyright perspecitve. 
+
+**Citing**
+
+This disseration is also published as [Technical Report number 943](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-943.html) by the University of Cambridge Computer Laboratory. You can cite the technical report using the following BibTeX record. 
+
+```
+@TechReport{UCAM-CL-TR-943,
+  author =	 {Grosvenor, Mathew P.},
+  title = 	 {{Latency-First datacenter network scheduling}},
+  year = 	 2020,
+  month = 	 jan,
+  url = 	 {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-943.pdf},
+  institution =  {University of Cambridge, Computer Laboratory},
+  number = 	 {UCAM-CL-TR-943}
+}
+```
 
 **Summary**
 
