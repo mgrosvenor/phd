@@ -5,7 +5,7 @@
 This repository is a public store for the final result of my PhD dissertation on latency control in datacenter networks. There are two versions of the document:
 
 - [thesis.pdf](https://github.com/mgrosvenor/phd/blob/master/thesis.pdf) which is a short version of the document, intended for faster downloads and easier digital viewing.  
-- [thesis-full.pdf](https://github.com/mgrosvenor/phd/blob/master/thesis-full.pdf) which is a fully prinable final version. This version includes a full copy of Appendix A, which includes extracts of web-based resources used inthe document, but which may expire or be removed by their auhtors. This is considered fair-use from a copyright perspecitve. 
+- [thesis-full.pdf](https://github.com/mgrosvenor/phd/blob/master/thesis-full.pdf) which is a fully prinable version. This version includes Appendix A, which holds extracts of web-based resources used in the document, but which may expire or be removed by their auhtors. This is considered fair-use from a copyright perspecitve. 
 
 **Citing**
 
